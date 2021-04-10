@@ -1,0 +1,43 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h1{
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+#Site-msg{    
+    text-align: center;
+}
+
+.table-container{    
+    text-align: center;
+    padding-left: 90px;
+    margin: 0 auto;
+    padding-right: 90px;
+    top: 50%;
+    background-size: contain;
+    background-attachment: fixed;
+}
+
+/* todo list */
+#todo-head{
+    text-align: center;
+    background-color: rgb(250, 233, 167);
+    font-style: italic;
+    font-family: "Times New Roman", Times, serif;
+}
+#list-body{
+    background: url("bgg.webp");
+    background-size: contain;
+    background-attachment: fixed;
+}
